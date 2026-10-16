@@ -1,0 +1,25 @@
+:root {
+  --ivory: #fbf7f0;
+  --cream: #f3ebdd;
+  --beige: #e4d6c0;
+  --gold: #b8935a;
+  --gold-deep: #8f6e3b;
+  --brown: #3b2a20;
+  --brown-soft: #6b5546;
+  --white: #ffffff;
+  --danger: #9b3b30;
+  --success: #4d6b4a;
+
+  --font-serif: 'Cormorant Garamond', Georgia, 'Times New Roman', serif;
+  --font-sans: 'Jost', system-ui, -apple-system, 'Segoe UI', sans-serif;
+
+  --container: 1240px;
+  --gutter: clamp(1rem, 4vw, 2.5rem);
+  --section-space: clamp(3.5rem, 8vw, 6.5rem);
+
+  --ease: cubic-bezier(0.22, 0.61, 0.36, 1);
+  --t-fast: 200ms;
+  --t-med: 350ms;
+  --t-slow: 700ms;
+  --header-h: 72px;
+}
